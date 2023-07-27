@@ -1,0 +1,48 @@
+{
+	"id": 1392,
+	"name": "Banderas LGBT",
+	"description": "Intento de r/colombia y comunidad de LGBT de rellenar el espacio",
+	"links": {
+		"subreddit": [
+			"Colombia"
+		]
+	},
+	"path": {
+		"229-256": [
+			[
+				-1001,
+				639
+			],
+			[
+				-883,
+				639
+			],
+			[
+				-883,
+				774
+			],
+			[
+				-1000,
+				774
+			],
+			[
+				-1000,
+				701
+			],
+			[
+				-999,
+				692
+			],
+			[
+				-1000,
+				676
+			]
+		]
+	},
+	"center": {
+		"229-256": [
+			-942,
+			706
+		]
+	}
+}
